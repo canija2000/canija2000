@@ -10,9 +10,9 @@ Joaquin, de Chile.
 🍭 Recién terminando un BootCamp de JS, asi que en relación a la IT, ninguna experencia.
 
 ⚔️ Puedes contactarme en :
-                          jabachler@uc.cl , o por aquí mismo
+                          *jabachler@uc.cl , o por aquí mismo
 
-### Puedes visitar mi página : jbachler.cl
+ * o visitar mi página : http://jbachler.cl
 
 
             
